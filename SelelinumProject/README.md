@@ -3,7 +3,7 @@ Realtor.com Search Listings
 This projects automates the Realtor.com website search results page using Selenium webdriver in Java and Junit on Maven build.
 
 Steps to execute:
- - Install IntelliJ IDEA on your local box.
+ - Install IntelliJ IDEA, you can download from [IntelliJ IDEA/downloads](https://www.jetbrains.com/idea/download/#section=windows) to your local box.
  - Navigate to Menu -> VCS -> Git -> Clone
  - Give the [Git repository URL](https://github.com/pa1codehub/realtor_search_listings) and click on clone.
  - Import the project from local machine.
